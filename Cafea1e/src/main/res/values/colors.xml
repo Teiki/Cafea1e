@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ancienne couleur
+<color name="background">#02142E</color>
+<color name="button_pressed">#0A1422</color>
+<color name="translucide">#00000000</color> -->
+
+    <color name="presque_blanc">#fffffe</color>
+    <color name="transparent">#0000</color>
+    <color name="grey_light_dialog">#EEEEEE</color> <!-- 238/238/238 -->
+    <color name="grey_light">#E8E8E8</color> <!-- 232/232/232 -->
+    <color name="grey_light_separator">#DEDEDE</color> <!-- 222/222/222 -->
+    <color name="grey_dark">#7F8182</color> <!-- 127/129/130 -->
+    <color name="grey_progress">#A6A6A6</color> <!-- 166/166/166 -->
+    <color name="grey_separator">#C3C3C3</color> <!-- 195/195/195 -->
+    <color name="green">#99CC01</color>	<!-- 153/204/1 -->
+    <color name="red">#C80000</color>	<!-- 255/0/0 -->
+    <color name="light_grey">#E4E4E4</color>
+
+    <color name="splashscreen_background">#FFF</color>
+    <color name="activity_background">#EEEEEE</color>	<!-- 238/238/238 -->
+    <color name="agency_background">#E3E3E3</color>	<!-- 227/227/227 -->
+
+    <color name="navigation_pressed">#79A301</color>	<!-- R: V: B: -->
+    <color name="navigation_disabled">#FBFBFB</color>	<!-- R:251 V:251 B:251 -->
+
+    <color name="black_dark_text">#202020</color> <!-- 32/32/32 -->
+    <color name="black_text">#2C2C2C</color> <!-- 44/44/44 -->
+    <color name="grey_text">#949494</color> <!-- 148/148/148 -->
+
+    <color name="menu_row1_default_background">#3B3B3B</color> <!-- 59/59/59 -->
+    <color name="menu_row2_default_background">#252525</color> <!-- 38/38/38 -->
+    <color name="menu_row_selected_background">#99CC01</color> <!-- R134 V176 B15 -->
+
+    <color name="subbar">#000</color>
+
+    <color name="green_inactive">#B6DB4D</color>
+    <color name="green_selected">#79A301</color>
+
+    <color name="specificite_tab_1">#b7b7b7</color>
+    <color name="specificite_tab_2">#e3e3e3</color>
+
+
+
+    <!-- Nouvelle Couleur de PDF -->
+
+    <color name="VIEW_BACKGROUND_COLOR">#282828</color>
+    <color name="LIGHT_HIGHLIGHT_COLOR">#2b95cc</color>
+    <color name="DARK_HIGHLIGHT_COLOR">#001c3c</color>
+    <color name="LIGHT_ACTION_COLOR">#d7b876</color>
+    <color name="DARK_ACTION_COLOR">#d7b876</color>
+    <color name="LIGHT_NAVIGATION_BAR_BUTTON_COLOR">#bfbfbf</color>
+    <color name="DARK_NAVIGATION_BAR_BUTTON_COLOR">#8c8c8c</color>
+
+    <color name="noir">#000000</color>
+    <color name="bleu_clair">#2B95CC</color>
+    <color name="bleu_fonce">#001C3C</color>
+    <color name="gris_clair">#BCBEC0</color>
+    <color name="gris_fonce">#6D6F71</color>
+    <color name="jaune_clair">#D7B876</color> <!-- appuye -->
+    <color name="jaune_fonce">#D7A12F</color> <!-- normal -->
+
+</resources>

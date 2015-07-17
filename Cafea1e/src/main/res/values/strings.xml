@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="url_json_bar">http://opendata.paris.fr/api/records/1.0/search?dataset=liste-des-cafes-a-un-euro&amp;lang=FR&amp;facet=arrondissement</string>
+    <string name="url_json_bar_geofilter">geofilter.distance</string>
+    <string name="app_name">Café à 1€</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="Network_ConnectionError_Message">Vérifiez votre connexion Internet. Pour un plus grand confort d\'utilisation, connectez-vous en WIFI.</string>
+    <string name="Network_ConnectionError_Title">Connexion interrompue</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="coffee_price">Prix du café :</string>
+    <string name="search_title">Recherche&#8230;</string>
+    <string name="no_result">Aucun résultat</string>
+    <string name="mess_back_again">Appuyez de nouveau pour quitter</string>
+
+    <string-array name="menu_array">
+        <item>La Carte des cafés</item>
+        <item>Liste des cafés proches</item>
+    </string-array>
+
+
+    <string name="yelp_consumer_key">rWFrVT4Y0iwWNWp1M1O9rQ</string>
+    <string name="yelp_consumer_secret">_iMQlrvEj-Z7vmDLzyRR-IZH6so</string>
+    <string name="yelp_token">Jm9T4KdV2FXJIuc0L2C1piuaFHcLg0eG</string>
+    <string name="yelp_token_secret">LjJQ-C9uYuw8klqV1kgIl7uJE9s</string>
+
+</resources>
